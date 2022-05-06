@@ -1,0 +1,97 @@
+body{
+    font-family:  'Raleway', sans-serif ;
+    background-color: #000000;
+}
+.tittle{
+    color: #FFFFFF;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+}
+.img-header{
+    width: 100%;
+    
+}
+
+.desc{
+    text-align: left;
+    color: #FFFFFF;
+    font-size: 15px;
+    display: inline-block;
+    padding: 70px 100px 70px 100px;
+    width: 480px;
+    height: 200px;
+    opacity: 1;
+
+}
+.iguana1{
+    width: 400px;
+    height: 237px;
+}
+
+.section{
+    display: block;
+}
+.backg{
+    display: block;
+    background-color: #1e1a13;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 30px;
+}
+.icon{
+    display: inline-block;
+    margin-left: 90px;
+    padding: 5px;
+    size: 20px;
+}
+
+.iguanaimg{
+    margin-left: 40px;
+    display: inline-block;
+    top: 1561px;
+left: 150px;
+width: 316px;
+height: 202px;
+}
+.iguanaimg1{
+    margin-left: 100px;
+    display: inline-block;
+    top: 1561px;
+left: 482px;
+width: 316px;
+height: 202px
+
+}
+
+.iguanaimg2{
+    margin-left: 125px;
+    display: inline-block;
+    top: 1561px;
+left: 814px;
+width: 316px;
+height: 202px;
+opacity: 1;
+}
+
+.footer{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    top: 50px;
+    left: 0px;
+    width: 100%;
+    height: 70px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin-top: 70px;
+
+
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
